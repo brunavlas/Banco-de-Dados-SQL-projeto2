@@ -1,0 +1,2 @@
+# Banco-de-Dados-SQL-projeto2
+CREATE DATABASE / CREATE TABLE / INSERT / SELECT
