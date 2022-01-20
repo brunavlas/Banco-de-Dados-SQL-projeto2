@@ -1,2 +1,3 @@
-# Banco_de_Dados_SQL_projeto2
+# Banco_de_Dados_SQL
+
 CREATE DATABASE / CREATE TABLE / INSERT / SELECT
